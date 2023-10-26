@@ -8,11 +8,11 @@ I prosjektet skal vi benytte en systemutviklingsmåte kalt Smidig metodikk, såk
 Deres gruppe har fått oppgave å utvikle et spill for den lokale retro-arkaden. Retro-arkaden ønsker å utvide spillene de har tilgang til, med ett nytt spill som enten er, eller ligner på et klassisk spill. Arbeidsgiver har en liste med spill de ønsker seg, og antar at noen av spillene kan være vanskeligere å lage enn andre.
 
 - **Lavere kompleksitet:**
-- Brickbreaker, Packman, FlappyBird.
+  - Brickbreaker, Packman, FlappyBird.
 - **Medium kompleksitet:**
-- Pinball spill og TowerDefense spill.
+  - Pinball spill og TowerDefense spill.
 - **Høyere kompleksitet:**
-- Pac-Man, Plattformerspill som Super Mario?
+  - Pac-Man, Plattformerspill som Super Mario?
 
 ## Sprinter
 Arbeidsgiver vil ha kort iterasjonstid, og legger opp til 2 sprinter med varighet på 2 uker.
