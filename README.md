@@ -1,5 +1,5 @@
 # Prosjekt: Spillprogrammering i Python
- ## Omfang: 4 uker
+**Omfang: 4 uker**
 
 ## Arbeidsmåte
 I prosjektet skal vi benytte en systemutviklingsmåte kalt Smidig metodikk, såkalt Scrum-prosjekt. Dere skal arbeide i team på 4 (pluss ett team på 5). Dere velger gruppene selv. Dette skal være en gruppoppgave, så det er ikke lov å arbeide alene.
