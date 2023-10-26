@@ -1,5 +1,5 @@
 # Prosjekt: Spillprogrammering i Python
-**Omfang: 4 uker**
+**Omfang: 4 uker** (ekskludert praksisperioden uke 45-46)
 
 ## Arbeidsmåte
 I prosjektet skal vi benytte en systemutviklingsmåte kalt Smidig metodikk, såkalt Scrum-prosjekt. Dere skal arbeide i team på 4 (pluss ett team på 5). Dere velger gruppene selv. Dette skal være en gruppoppgave, så det er ikke lov å arbeide alene.
@@ -16,7 +16,9 @@ Pac-Man, Plattformerspill som Super Mario?
 
 ## Sprinter
 Arbeidsgiver vil ha kort iterasjonstid, og legger opp til 2 sprinter med varighet på 2 uker.
+
 **Sprint 1:** Fra 26.10 til 23.11 (praksis 06.11-17.11), sprint review 23.11.
+
 **Sprint 2:** Fra 28.11-12.12, sprint review 12.12 (prosjektet skal da være ferdig).
 
 **Arbeidsgiver har også gitt disse begrensningene:**
